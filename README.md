@@ -5,7 +5,7 @@ Wastetruck locator augmented reality app created using Mapbox sdk and Unity. Tha
 
 
 
-Records in Supplier Database
+Truck is seen moving on the street 
 
 
 
